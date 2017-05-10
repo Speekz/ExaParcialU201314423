@@ -8,7 +8,7 @@
  </head>
  <body>
  <div name="top" align="center">
- 	<img src="images/HelpGithub.jpg" width="800" height="250"/>
+ 	<img src="images/HelpGithub.jpg" width="1200" height="250"/>
  </div>
  <div name="middle" class="body_container" >
  <div class="row">
@@ -72,7 +72,7 @@
 		</div>
  </div>
  <div name="bottom" align="center">
- 	<img src="images/Services.jpg" width="1000" height="300"/>
+ 	<img src="images/Services.jpg" width="1200" height="300"/>
  </div>
  </body>
  </html>
