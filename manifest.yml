@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: ExaParU201314423
+  host: ExaParU201314423
+  disk_quota: 1024M
+  services:
+  - ClearDB MySQL Database-je
